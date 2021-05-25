@@ -8,4 +8,5 @@ func test() {
 
 package main(){
 fmt.Println("Hello World!")
+	fmt.Println("Hi from Sook Yoon")
 }
